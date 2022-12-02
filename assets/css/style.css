@@ -1096,3 +1096,10 @@ section {
     padding-right: 20px 15px;
   }
 }
+.submit-bttn:focus .thankyou_message{
+  display: block;
+}
+.submit-bttn:focus .hide{
+  display: none;
+}
+
